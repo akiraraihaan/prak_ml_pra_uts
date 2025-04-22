@@ -124,3 +124,5 @@ Model ini berpotensi menjadi alat bantu yang berharga dalam diagnosis awal anemi
 ## Tim Project
 - **Raihan Akira Rahmaputra** (105222040)
 - **Gema Fitri Ramadani** (105222009)
+
+Link repo github: https://github.com/akiraraihaan/prak_ml_pra_uts
